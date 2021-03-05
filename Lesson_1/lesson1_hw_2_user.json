@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "first_name": "Игорь",
+      "id": 507572987,
+      "last_name": "Соковнин",
+      "can_access_closed": true,
+      "is_closed": false,
+      "bdate": "20.9.1969"
+    }
+  ]
+}
