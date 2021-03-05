@@ -1,0 +1,197 @@
+{
+  "response": {
+    "count": 19,
+    "items": [
+      {
+        "id": 138477641,
+        "name": "Машинное обучение, AI, нейронные сети, Big Data",
+        "screen_name": "mashinnoe_obuchenie_ai_big_data",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-11.userapi.com/s/v1/if1/s9aSRPF0RmvD1ae-UUScDTkaWa0TCz7ISy9h98b6aHgetJ87Pf9wUNKsr-pzH_zEK5LyqroG.jpg?size=50x0&quality=96&crop=17,17,201,201&ava=1",
+        "photo_100": "https://sun3-11.userapi.com/s/v1/if1/dw09TvBiMbA4OrKL4SGDBFMKA5lh0RC-VviCsEiG9g-efBoIEAjma6yiVkbhsv9vI7S0QZgA.jpg?size=100x0&quality=96&crop=17,17,201,201&ava=1",
+        "photo_200": "https://sun3-11.userapi.com/s/v1/if1/-YA2j34dyA1ALZxl-Fg7DBvpuJKIZoUL9WeJLipWY47aYOpgXGA90cCiuyo2MQOCq3iijc5z.jpg?size=200x0&quality=96&crop=17,17,201,201&ava=1"
+      },
+      {
+        "id": 52755582,
+        "name": "Всё о 3D-принтерах и 3D-печати",
+        "screen_name": "3dtoday",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-13.userapi.com/s/v1/if1/OzxUcZikNCfl_UY8Nv-tQyaDkOm1baZhzGmbPYBhmLuE9LYMUc3LqsDQwad17tWgZVzpRdvf.jpg?size=50x0&quality=96&crop=87,54,408,408&ava=1",
+        "photo_100": "https://sun3-13.userapi.com/s/v1/if1/wl9LPQ2p6Dc9KD25P2Em3L4bT2sVzrRuFKFGI7CoaER2npeHRAFUH4Z2WXYs9DA78HAVMG9v.jpg?size=100x0&quality=96&crop=87,54,408,408&ava=1",
+        "photo_200": "https://sun3-13.userapi.com/s/v1/if1/elG8kR8OhTPa35WjBZWUP-mHCYJDyrdnPj9Jahu8zaYcEZOMbXB9-kgq3ieTc2pK_PaGLRz6.jpg?size=200x0&quality=96&crop=87,54,408,408&ava=1"
+      },
+      {
+        "id": 140871378,
+        "name": "Центр робототехники и интеллектуальных систем",
+        "screen_name": "robotpsu",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-10.userapi.com/s/v1/if1/9HlKqg3Ah52actGCyqXcVxknyILdMTB37G0ffYtOjl4njrZs6fQ4O3njYGIDYFNyA5UKt4uE.jpg?size=50x0&quality=96&crop=32,32,2128,2128&ava=1",
+        "photo_100": "https://sun3-10.userapi.com/s/v1/if1/OUIIRnyegucMnFSYx4eddnhP0W21U28o4HclZNCKxjvm8Q9VJIgkmhTaXkW9Hl35-D8VL0GO.jpg?size=100x0&quality=96&crop=32,32,2128,2128&ava=1",
+        "photo_200": "https://sun3-10.userapi.com/s/v1/if1/smN8B3GEIlNnZex6Z00JuM-55jSZRI4fjxbhCjiCNWWu978H5DtzZJMAOvTHhrMhG15EBQO8.jpg?size=200x0&quality=96&crop=32,32,2128,2128&ava=1"
+      },
+      {
+        "id": 98151324,
+        "name": "Ардуино Arduino Пермь",
+        "screen_name": "ardu_rf",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-12.userapi.com/s/v1/if1/7NYhOrl2k82LVRhOfo44R2vUbV_jKDwAc_RIPEAq0z2VxEMgORAw-7eBnrpr8szboABbhQNk.jpg?size=50x0&quality=96&crop=0,0,709,709&ava=1",
+        "photo_100": "https://sun3-12.userapi.com/s/v1/if1/UGPgnHlVpw_66iz3C1NI_ZK5vLOAOcww-1RO3kI2_EaEVYyGoerljcLQnD88LY4t1s9loXO8.jpg?size=100x0&quality=96&crop=0,0,709,709&ava=1",
+        "photo_200": "https://sun3-12.userapi.com/s/v1/if1/SiDhpamG4mpn5tmxhEgTCiZu0BPmye2eWqBKHr3akSbpjYFqWbE-kkxgfSoNCus3-QZFL1jV.jpg?size=200x0&quality=96&crop=0,0,709,709&ava=1"
+      },
+      {
+        "id": 169934613,
+        "name": "KARPOV.COURSES",
+        "screen_name": "karpovcourses",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-12.userapi.com/s/v1/ig2/C1Ke892N5POyEF33OIAuOZYNE74MATQiSUyLbH1MLMTdCmOYPcg60srsKtxNrptyMvaKe5wWksUS8oqc1WxFL2il.jpg?size=50x0&quality=96&crop=252,252,1495,1495&ava=1",
+        "photo_100": "https://sun3-12.userapi.com/s/v1/ig2/wrGIlPa-_UIIRYqO2Z919WFa9xtyqRtK4dBUqM-X_hUTG0L0V5JrhXhgS11XaaapCBQRlpP8MLZRACIUujis_UNb.jpg?size=100x0&quality=96&crop=252,252,1495,1495&ava=1",
+        "photo_200": "https://sun3-12.userapi.com/s/v1/ig2/cAbZcIBLFgkFmn2TGKCCmVoEqSVNX9JWe9gdgwCHZVzsFD5niHPCRPmqO7BiBfay1o_drfFNu8RiCzJpsv4QGKFO.jpg?size=200x0&quality=96&crop=252,252,1495,1495&ava=1"
+      },
+      {
+        "id": 178936093,
+        "name": "Основы интеллектуальных систем, компьютерного зр",
+        "screen_name": "club178936093",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-13.userapi.com/s/v1/if1/xymInK8eQEEUf0AUMY_gtjLMKU0WkfiwXaFWYq5_h9NXliaMCE1AATZsSI0NOoFnafCLNHfC.jpg?size=50x0&quality=96&crop=71,71,2017,2017&ava=1",
+        "photo_100": "https://sun3-13.userapi.com/s/v1/if1/eINDy2R1BbWwDzBJoF9Q81fSsG3I98lm1JhV-x85fWN7S7GU81pApJ9UV6GHZOUOup72Qu59.jpg?size=100x0&quality=96&crop=71,71,2017,2017&ava=1",
+        "photo_200": "https://sun3-13.userapi.com/s/v1/if1/zs3feMX5X4hTBkT9aNNhoVuAKPWynh-cuWhbpm61pkAB5lpbR2zUIWms1ln6P2VrOG9oGhMv.jpg?size=200x0&quality=96&crop=71,71,2017,2017&ava=1"
+      },
+      {
+        "id": 68151800,
+        "name": "Занимательная робототехника",
+        "screen_name": "edurobots",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-11.userapi.com/s/v1/if1/QRMXzjvV7iVo25jyF9elYri63khIY4wX97TeBhPx2W95FHU9d-IHLvYJa5Xm-RlE7V1ipoxR.jpg?size=50x0&quality=96&crop=282,265,1505,1505&ava=1",
+        "photo_100": "https://sun3-11.userapi.com/s/v1/if1/ZEpjqc7v5sP07qwtoPH2rNsVizJiK-JgpL1Q3cJnPurOSxbFRSfesQ7oeAXSITqRdprEdMRm.jpg?size=100x0&quality=96&crop=282,265,1505,1505&ava=1",
+        "photo_200": "https://sun3-11.userapi.com/s/v1/if1/HoXTzuemSEaB52_azTogFeV7Re1yLhKZzsi7ehPmecgOsc1Dqo04ymnGCPOA6Fgyv7xxfk2D.jpg?size=200x0&quality=96&crop=282,265,1505,1505&ava=1"
+      },
+      {
+        "id": 15365973,
+        "name": "GeekBrains",
+        "screen_name": "geekbrainsru",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-11.userapi.com/s/v1/ig2/6MxK_ApxvkIdJhtSc9MqBYRPLnoMmpqtgPGl3bmoKHhBamBjCkwBa3T-qQdfkTzMqfPL2CszZP4pr7tiR-swsm5y.jpg?size=50x0&quality=96&crop=54,54,1486,1486&ava=1",
+        "photo_100": "https://sun3-11.userapi.com/s/v1/ig2/8oNM1_23onS_rY1IyWW0aXB88-r_2V-apzhN_FflwjX78NX6aX5a8xTYvsFGi_ik9gbdVjoLo6xOyg4RkFPDPJRx.jpg?size=100x0&quality=96&crop=54,54,1486,1486&ava=1",
+        "photo_200": "https://sun3-11.userapi.com/s/v1/ig2/r1YrpqKN72Age5ZOS-3anAXd6I4-U2aNvG55BnW_oCFSx1gE2byLF66JoswEx97LZyiJUhjAt8x0CRYIOi49jZdt.jpg?size=200x0&quality=96&crop=54,54,1486,1486&ava=1"
+      },
+      {
+        "id": 145052891,
+        "name": "OTUS. Онлайн-образование",
+        "screen_name": "otusru",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-13.userapi.com/s/v1/ig2/jizQF-nTrJCmmzRJYytE8NLwPDkly90VYUFujLpBjEB-mfWT4WKqZmQr6E2esmuve6r8nWcnXehaAsZd8i0Trfcw.jpg?size=50x0&quality=96&crop=25,25,204,204&ava=1",
+        "photo_100": "https://sun3-13.userapi.com/s/v1/ig2/tUs3rSpRfnFQu9P_RGhqEMBHSelHxlwMFtELE3BRYGjDBL_-nguFt1wat4nulpifIWyK2_4oTlqiy0m0r7-5uWY7.jpg?size=100x0&quality=96&crop=25,25,204,204&ava=1",
+        "photo_200": "https://sun3-13.userapi.com/s/v1/ig2/e76UugKnSysJFShdudBvFtwrPDRoue2W7J3Qj0-kRPDq8WXnOBceNcZq9IIaZKwAlmaeh6iNrWL0i8PYey4D41-O.jpg?size=200x0&quality=96&crop=25,25,204,204&ava=1"
+      },
+      {
+        "id": 64524646,
+        "name": "Python Programming",
+        "screen_name": "python_programming",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-10.userapi.com/s/v1/if1/3F6YD0gqxKvxfF8xKyi8EHxuybCb9DqAkAZh2SeQETIqPlKoGQBYglxwp4KnS6XYjHk8llBk.jpg?size=50x0&quality=96&crop=631,102,820,820&ava=1",
+        "photo_100": "https://sun3-10.userapi.com/s/v1/if1/sCcNwNKXiZccGo1cUlMZWMgnTr2m0fgZV1B_RGEHhzws2TDVz2lMIDG8x_pNstm5C3ZaC3po.jpg?size=100x0&quality=96&crop=631,102,820,820&ava=1",
+        "photo_200": "https://sun3-10.userapi.com/s/v1/if1/xgjRQkq514ksKtnLrcpBdw2jcVkXGfvdkfEwPu4Zg-ufGw9w4fjfg3kZINMGz76RabsaKnp7.jpg?size=200x0&quality=96&crop=631,102,820,820&ava=1"
+      },
+      {
+        "id": 32017543,
+        "name": "Веб-стандарты",
+        "screen_name": "webstandards_ru",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-11.userapi.com/s/v1/if1/pT-UJiivuXgjOUKD5Nm3V6-MD1MFpSA3ZUHe41pjo8uraZl1WEFaVa2KvySwXWdSJ6YeLnPq.jpg?size=50x0&quality=96&crop=0,0,1024,1024&ava=1",
+        "photo_100": "https://sun3-11.userapi.com/s/v1/if1/__SZu7FDkhMgtFc_QYwluC-7iqyJeyvgLtslZFznUOtwigNiu12tZPxtZZ5U4esj271j8-Ul.jpg?size=100x0&quality=96&crop=0,0,1024,1024&ava=1",
+        "photo_200": "https://sun3-11.userapi.com/s/v1/if1/hls0nz70RBTYnWfvyWHkqT5H-SeTw3cDQjhZJUjgSI9s3LobW0LOWOlFgLP9tub5pVu30BXi.jpg?size=200x0&quality=96&crop=0,0,1024,1024&ava=1"
+      },
+      {
+        "id": 142410745,
+        "name": "Python 3.9 | ЯПрограммист",
+        "screen_name": "open_sourcecode",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-12.userapi.com/s/v1/if1/1SQNOseGkkJAr3SMjNIgLWMFPsWWqsbZQC4Z7Dskp8iiQZtg5u7FHr9-cXD1t47VkvmRRb1f.jpg?size=50x0&quality=96&crop=519,0,330,330&ava=1",
+        "photo_100": "https://sun3-12.userapi.com/s/v1/if1/LLdtcP_-jwfaHb7VCHtA1n4yXRNE3UQNyIVBJj09FohsKIOmpW9mhrl9bGdvftxert1Bgx3F.jpg?size=100x0&quality=96&crop=519,0,330,330&ava=1",
+        "photo_200": "https://sun3-12.userapi.com/s/v1/if1/tNB9IbW0s23kI9gOvnreu0yrJEBcopbMeW8rYCKgOcpi9Ky7evJp4AOCyocBa2hd-OpzZ9ZN.jpg?size=200x0&quality=96&crop=519,0,330,330&ava=1"
+      },
+      {
+        "id": 38946994,
+        "name": "Linux | Линукс",
+        "screen_name": "linux0ids",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun3-10.userapi.com/s/v1/ig2/fW3zZ4NJTNWJIZ9PX5x8Lbz8wnRdoqehwvFgkGa9AqjhC7MlDovhOb0UCZyp2wN_9ijRedNN1gk9d3C8SoEHOowV.jpg?size=50x0&quality=96&crop=216,226,656,656&ava=1",
+        "photo_100": "https://sun3-10.userapi.com/s/v1/ig2/z0Yo4_Fm1oMvEvnnFWrcNQbxO7sXcyIjQna_h1B7V3usXXCECx0UcMvNq5tvNoU1JpvX45Zsgb1JyayjpOGFuiHN.jpg?size=100x0&quality=96&crop=216,226,656,656&ava=1",
+        "photo_200": "https://sun3-10.userapi.com/s/v1/ig2/hLBfOcMsC8TUNXat-gYDJKOkeIk3MphkDccMm5iFX6yt-EmPbChFTXOq0_65g7YCQ9DBw5okJU6TxOBIX_gp_gJF.jpg?size=200x0&quality=96&crop=216,226,656,656&ava=1"
+      },
+      {
+        "id": 178980173,
+        "name": "Сетевой ИТ-Университет",
+        "screen_name": "itedunetwork",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-10.userapi.com/s/v1/if1/yC36ZRxvEEzSUiHvfx01JI7nJJcG9Zy-ZAw6O7ajynoexx0EooxM-a8g1sSlvq-bHlu9m3As.jpg?size=50x0&quality=96&crop=1,0,529,529&ava=1",
+        "photo_100": "https://sun3-10.userapi.com/s/v1/if1/HfYdkmNBwn7dpl_3KfBBTZEglrw2dWjA1pwsSVphWB8YoyD9Pj3AMH7HMAiTWj1KYTn-UMdZ.jpg?size=100x0&quality=96&crop=1,0,529,529&ava=1",
+        "photo_200": "https://sun3-10.userapi.com/s/v1/if1/FlMtX59ILafU_aRGFbiw1QbG0kjrrMWRehlzK8lVKz8WyR1VJPX9Dh5QMCDA7-gYUO9xSzrr.jpg?size=200x0&quality=96&crop=1,0,529,529&ava=1"
+      },
+      {
+        "id": 147997,
+        "name": "Raspberry Pi",
+        "screen_name": "raspberrypi4",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-12.userapi.com/s/v1/if1/N4v_mnZ8MZ04aRsL1gqkd7Y3kqDKR8s1zMZEaTnMyv8T0xMgBeEeA46U_1wvs3rX4o6HPqDS.jpg?size=50x0&quality=96&crop=489,19,954,954&ava=1",
+        "photo_100": "https://sun3-12.userapi.com/s/v1/if1/Tv47OBHfeeYSIu5HXN1Dzk8WG9uu5Zo-E2o4ykghePfll1jss-ie7MqWonivjctp2V22jFiC.jpg?size=100x0&quality=96&crop=489,19,954,954&ava=1",
+        "photo_200": "https://sun3-12.userapi.com/s/v1/if1/XzNz5qq9Hsy7akblHCzfyV02wJWWHWtklVwiBIwEV2NOS46Fpu7Ihm1DRzlrt76WMmFQuljl.jpg?size=200x0&quality=96&crop=489,19,954,954&ava=1"
+      },
+      {
+        "id": 179066948,
+        "name": "РобоМетод  | Робототехника для учителей",
+        "screen_name": "robometod",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-11.userapi.com/s/v1/if1/bjRp3ZoE-seVBdqN2n7viOqmEIgaNyVGVN6weVoNFmn5Ze1uIokGRBauyOeDIDkGrQAYMjGs.jpg?size=50x0&quality=96&crop=8,4,388,388&ava=1",
+        "photo_100": "https://sun3-11.userapi.com/s/v1/if1/jp_9FF-8LlCxo-ZDlwU1XmojtooODAd28Y2gP1Tgmv1wW_O1beLimIRPDFrDQSshD7wMa1QN.jpg?size=100x0&quality=96&crop=8,4,388,388&ava=1",
+        "photo_200": "https://sun3-11.userapi.com/s/v1/if1/4bsm2Z0rq8vhdXgL8VeAk2OfvyfTrOBJlStMQvSI39N5l1x525MC4mFkYPjVS-o3ELkFLp8E.jpg?size=200x0&quality=96&crop=8,4,388,388&ava=1"
+      },
+      {
+        "id": 176379901,
+        "name": "Лаборатория 3D-моделирования ПГНИУ",
+        "screen_name": "3dpsu",
+        "is_closed": 0,
+        "type": "group",
+        "photo_50": "https://sun3-10.userapi.com/s/v1/if1/hc8p54bR2XrMkFoXRnrpw4aiDxRSjhkMHdsd11IMANuxZ_nsLWxPMTnc6Ypwi-5QuBz2dsO6.jpg?size=50x0&quality=96&crop=126,126,748,748&ava=1",
+        "photo_100": "https://sun3-10.userapi.com/s/v1/if1/L3_06IN_L4J4lbfINtMpbxmWVYFFwMdAKnvqZjsRB9KQQhaO2_hFvoqwe1zh_-cd_mPPQSBH.jpg?size=100x0&quality=96&crop=126,126,748,748&ava=1",
+        "photo_200": "https://sun3-10.userapi.com/s/v1/if1/k8fif136WYbqV2Hd-Jl3pAIv7aqxih9gq1l_hzxSRNaTKJlbb2XF8BnAnoXpkvsaX9yE7lKt.jpg?size=200x0&quality=96&crop=126,126,748,748&ava=1"
+      },
+      {
+        "id": 180331428,
+        "name": "«Мозг. Вторая вселенная» в поддержку YN-2019",
+        "screen_name": "brain_second_universe",
+        "is_closed": 0,
+        "type": "event",
+        "photo_50": "https://sun3-10.userapi.com/s/v1/if1/m4ljhCEJ0CJU3yvUn7jAUlXLGGk5qPpg1sieJp9Igdb2Zr6yU30hHyYrGcdxO-jmtQua4VN5.jpg?size=50x0&quality=96&crop=1521,536,1039,1039&ava=1",
+        "photo_100": "https://sun3-10.userapi.com/s/v1/if1/QAp3TQyfvMdAr4uOASvwn25jCGpPETbJ7r-A7Pkovm1lwibo_LdhMAqD2e_ZlTPId9XZel-0.jpg?size=100x0&quality=96&crop=1521,536,1039,1039&ava=1",
+        "photo_200": "https://sun3-10.userapi.com/s/v1/if1/TXRTmmc5K_gGUlVjn2n8SVSNiyY6W-G6AzIv6pl7a4DqqTRZnYfRqyDRtzQSOwioyiWRWceb.jpg?size=200x0&quality=96&crop=1521,536,1039,1039&ava=1"
+      },
+      {
+        "id": 86887710,
+        "name": "Математика и междисциплинарные исследования",
+        "screen_name": "mmiconfpsu",
+        "is_closed": 0,
+        "type": "event",
+        "photo_50": "https://sun3-12.userapi.com/s/v1/ig1/A_KRE-_yCVXO2TrwaB9WdI0t6evWNb0_VeCuF9lzGGAj3hb3PNA9JGmrlHGgsc5Lbe6WPFxl.jpg?size=50x0&quality=96&crop=680,107,961,961&ava=1",
+        "photo_100": "https://sun3-12.userapi.com/s/v1/ig1/eJKkiRt6fq2PW8D8TmQq5kue6bYQhAhwX_WhTNnpKgE_FZBvAIvKjV8V8J7Iea9JZNniuXFM.jpg?size=100x0&quality=96&crop=680,107,961,961&ava=1",
+        "photo_200": "https://sun3-12.userapi.com/s/v1/ig1/hViCWt_WWC-fAzrXhJa32b37394KDcHeLTt14Zk2aq0_dEoASA54sBI6-4TrdemWZYdkbpkE.jpg?size=200x0&quality=96&crop=680,107,961,961&ava=1"
+      }
+    ]
+  }
+}
