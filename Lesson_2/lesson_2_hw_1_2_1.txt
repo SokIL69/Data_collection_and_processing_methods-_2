@@ -1,0 +1,66 @@
+<div class="vacancy-serp-item__info">
+    <span class="bloko-section-header-3 bloko-section-header-3_lite">
+        <span class="resume-search-item__name">
+            <span class="g-user-content">
+                <a  class="bloko-link HH-LinkModifier HH-VacancyActivityAnalytics-Vacancy" data-position="0"
+                    data-qa="vacancy-serp__vacancy-title" data-requestid="16152647614608b1aff60630c53106a5"
+                    data-totalvacancies="9672" href="https://perm.hh.ru/vacancy/42361032?query=python" target="_blank">
+                        Программист Python middle / senior
+                </a>
+            </span>
+        </span>
+    </span>
+</div>
+
+<a class="bloko-link HH-LinkModifier HH-VacancyActivityAnalytics-Vacancy" data-qa="vacancy-serp__vacancy-title"
+    href="https://hh.ru/analytics_source/vacancy/42799332?query=python&
+          amp;position=50&amp;requestId=161526144773733f2fd94dbed015f439&amp;totalVacancies=9671&amp;source=vacancies"
+    data-position="50" data-requestid="161526144773733f2fd94dbed015f439" data-totalvacancies="9671"
+    target="_blank" data-clicked="true">
+        Python/Django разработчик
+</a>
+
+<div class="g-user-content">
+    <div data-qa="vacancy-serp__vacancy_snippet_responsibility">
+        Разработка API. Интеграция сторонних сервисов. Участие в полном цикле разработки - проектирование,
+        программирование, тестирование, поддержка. Контролирование качества кода. Администрирование серверов.
+    </div>
+    <div data-qa="vacancy-serp__vacancy_snippet_requirement">
+        Опыт работы с контейнерами docker. Практический опыт автоматизации развертывания приложений.
+        <span class="highlighted highlighted_short">Python</span>
+        3. Django. Django REST Framework. Celery. Redis. PostgreSQL. Nginx.
+    </div>
+</div>
+
+<div class="vacancy-serp-item__meta-info-company">
+    <a href="/employer/1579449" class="bloko-link bloko-link_secondary" data-qa="vacancy-serp__vacancy-employer">
+        idaproject
+    </a>
+</div>
+
+1.1
+<div class="vacancy-serp-item__sidebar">
+    <span class="bloko-section-header-3 bloko-section-header-3_lite" data-qa="vacancy-serp__vacancy-compensation">
+        от 70&nbsp;000 руб.
+    </span>
+</div>
+1.2
+<div class="vacancy-serp-item__sidebar">
+    <span class="bloko-section-header-3 bloko-section-header-3_lite" data-qa="vacancy-serp__vacancy-compensation">
+        120&nbsp;000-180&nbsp;000 руб.
+    </span>
+</div>
+1.3
+<div class="vacancy-serp-item__sidebar">
+    <span class="bloko-section-header-3 bloko-section-header-3_lite" data-qa="vacancy-serp__vacancy-compensation">
+        до 7&nbsp;000 USD
+    </span>
+</div>
+1.4
+<div class="vacancy-serp-item__sidebar"></div>
+
+
+<a class="bloko-button HH-Pager-Controls-Next HH-Pager-Control" data-qa="pager-next" data-page="5"
+    rel="nofollow" href="/search/vacancy?L_is_autosearch=false&amp;area=113&amp;clusters=true&amp;enable_snippets=true&amp;text=python&amp;page=5">
+    дальше
+</a>
