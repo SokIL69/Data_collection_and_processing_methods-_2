@@ -1,0 +1,172 @@
+# Структура документа:
+# 1. Наименование вакансии
+# <a class="icMQ_ _6AfZ9 f-test-link-Programmist-razrabotchik_Python _2JivQ _1UJAN"
+#    href="/vakansii/programmist-razrabotchik-python-36103703.html" target="_blank">
+#       Программист-разработчик <span class="_1rS-s">Python</span>
+# </a>
+# 3. Ссылку на саму вакансию - https://www.superjob.ru/vakansii/sistemnyj-analitik-36121738.html
+# <a class="icMQ_ _205Zx f-test-link-Alfaritm _25-u7" href="/clients/alfaritm-4006623.html" target="_self">Альфаритм</a>
+
+# https://www.superjob.ru/clients/tehnopark-skolkovo-3749932.html
+"""
+<div class="_3mfro PlM3e _2JVkc _3LJqf">
+    <a class="icMQ_ _6AfZ9 f-test-link-Automation_QA_Engineer_Testirovschik_(Python) _2JivQ _1UJAN" target="_blank"
+        # 3. Ссылку на саму вакансию.
+        href="/vakansii/automation-qa-engineer-35962650.html">
+                # 1. Наименование вакансии.
+                Automation QA Engineer / Тестировщик (Python)
+    </a>
+</div>
+"""
+
+"""
+<div class="_3mfro PlM3e _2JVkc _3LJqf">
+    <a class="icMQ_ _6AfZ9 f-test-link-Backend-razrabotchik_(Middle_Python_Scrapy) _2JivQ _1UJAN" target="_blank"
+        # 3. Ссылку на саму вакансию.
+        href="/vakansii/backend-razrabotchik-36033058.html?search_id=9b6a5a7e-7fdc-11eb-8166-bdb829a5c58a&amp;vacancyShouldHighlight=true">
+            # 1. Наименование вакансии.
+            Backend-разработчик (Middle
+                <span class="_1rS-s">Python</span>
+            Scrapy)
+    </a>
+</div>
+"""
+
+# 2. Предлагаемую зарплату (отдельно минимальную и максимальную).
+# 2.1 По договорённости
+"""
+<span class="_1OuF_ _1qw9T f-test-text-company-item-salary">
+    <span class="_3mfro _2Wp8I PlM3e _2JVkc _2VHxz">
+        По договорённости
+    </span>
+/span>
+"""
+# 2.3 от 40 000 руб в месяц
+"""
+<span class="_1OuF_ _1qw9T f-test-text-company-item-salary">
+    <span>
+        <span class="_3mfro _2Wp8I PlM3e _2JVkc _2VHxz">
+            # min-зарплата
+                от&nbsp;40&nbsp;000&nbsp;руб.
+        </span>
+    </span>
+    <span>/
+        <span class="_3mfro PlM3e _2JVkc _2VHxz">
+            месяц
+        </span>
+    </span>
+</span>
+"""
+
+# 2.3 до 50 000 руб в месяц
+"""
+<span class="_1OuF_ _1qw9T f-test-text-company-item-salary">
+    <span>
+        <span class="_3mfro _2Wp8I PlM3e _2JVkc _2VHxz">
+            # max-зарплата
+            до&nbsp;50&nbsp;000&nbsp;руб.
+        </span>
+    </span>
+    <span>/
+        <span class="_3mfro PlM3e _2JVkc _2VHxz">
+            # max - период
+            месяц
+        </span>
+    </span>
+</span>
+"""
+
+# 2.3 160 000 - 200 000 руб в месяц
+"""
+<span class="_1OuF_ _1qw9T f-test-text-company-item-salary">
+    <span>
+        <span class="_3mfro _2Wp8I PlM3e _2JVkc _2VHxz">
+            # min-зарплата
+                160&nbsp;000
+            # разделитель
+                <span>&nbsp;—&nbsp;</span>
+            # max-зарплата
+                200&nbsp;000&nbsp;руб.
+        </span>
+    </span>
+    <span>/
+         <span class="_3mfro PlM3e _2JVkc _2VHxz">месяц</span>
+    </span>
+</span>
+"""
+"""
+По договорённости
+от<!-- --> <!-- -->40 000 руб.
+160 000<span> <!-- -->—<!-- --> </span>200 000<!-- --> <!-- -->руб.
+до<!-- --> <!-- -->30 000 руб.
+120 000<span> <!-- -->—<!-- --> </span>150 000<!-- --> <!-- -->руб.
+"""
+"""
+<span>
+<span class="_3mfro _2Wp8I PlM3e _2JVkc _2VHxz">от<!-- --> <!-- -->210 000 руб.</span>
+</span>
+<span>/
+<span class="_3mfro        PlM3e _2JVkc _2VHxz">месяц</span>
+</span>
+"""
+
+# 4. Сайт, откуда собрана вакансия.
+# 5.  Компания предоставившая вакансию
+# https://www.superjob.ru/clients/grandstaff-2765830.html
+"""
+<div class="_2g1F-">
+    <span class="_3mfro _3Fsn4 f-test-text-vacancy-item-company-name _9fXTd _2JVkc _2VHxz _15msI">
+        <a class="icMQ_ _205Zx f-test-link-Grandstaff _25-u7" target="_self"
+            # 4. Сайт, откуда собрана вакансия.
+                href="/clients/grandstaff-2765830.html">
+                # 5. Компания предоставившая вакансию
+                    Грандстафф
+        </a>
+    </span>
+</div>
+"""
+
+# 6. Описание вакансии
+"""
+<div class="HSTPm _3C76h _10Aay _2_FIo _1tH7S">
+    <span class="_3mfro _38T7m _9fXTd _2JVkc _2VHxz _15msI">
+        # 6. Описание вакансии
+            Анализ требований. Разработка автотестов на Python. Актуализация автотестов.
+            Разбор ошибок. Формирование отчетов
+            <br>Опыт автоматизации тестирования от 2х лет.
+            Опыт разработки тестов на Python, Pytest. Опыт автоматизированного тестирования API
+    </span>
+</div>
+"""
+
+# Работодатель _9fXTd
+"""<a class="icMQ_ _205Zx f-test-link-Tehnopark_«Skolkovo» _25-u7"
+      href="/clients/tehnopark-skolkovo-3749932.html" target="_self">Технопарк «Сколково»</a>"""
+
+# Переход на следующую страницу
+# https://www.superjob.ru/vacancy/search/?keywords=python&page=2
+
+
+# Удаленная работа
+"""
+<div class="_2g1F-">
+    <div class="Nmq63 _3P0J7 _9_FPy _1iZ5S" spacing="2">
+        <div class="_2g1F-">
+            <span class="_1kf9U _26sNS f-test-badge _2FkY7">
+                Удаленная работа
+            </span>
+        </div>
+    </div>
+</div>
+"""
+
+# переход на следующую страницу
+<a rel="next" class="icMQ_ bs_sM _3ze9n f-test-button-dalshe f-test-link-Dalshe" target="_self" href="/vacancy/search/?keywords=python&amp;page=2">
+    <span class="_3hkiy _30F5F _290uh _1tqyb _3PbQP _1AKho" tabindex="-1">
+        <span class="_1sPXR">
+            <span class="_1BOkc">
+                Дальше
+            </span>
+        </span>
+    </span>
+</a>
