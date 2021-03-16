@@ -18,6 +18,14 @@ from pprint import pprint
 from datetime import datetime
 from pymongo import MongoClient
 
+
+# ============================ #
+# 1. Собрать новости с сайтов:
+# - news.mail.ru,
+# - lenta.ru,
+# - yandex-новости
+# ============================ #
+
 header = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'}
 news = []
 
@@ -88,7 +96,7 @@ def news_mail_main():
     # pprint(news)
 
 
-# Получить главные новости со сстраницы "https://news.mail.ru/".
+# Получаем главные новости со сстраницы "https://news.mail.ru/".
 news_mail_main()
 
 
@@ -119,7 +127,7 @@ def lenta_news_main():
     # pprint(news)
 
 
-# Получить главные новости со сстраницы "https://lenta.ru/".
+# Получаем главные новости со страницы "https://lenta.ru/".
 lenta_news_main()
 
 
@@ -151,8 +159,7 @@ def yandex_news_main():
     # pprint(news)
 
 
-# Получить главные новости с сайта https://yandex.ru/
-# yandex_news_main()
+# Получаем главные новости с сайта https://yandex.ru/
 def yandex_news():
     """
     Получить новости со сстраницы "https://yandex.ru/news?from=tabbar".
@@ -180,7 +187,7 @@ def yandex_news():
     # pprint(news)
 
 
-# Получить новости со страницы "https://yandex.ru/news?from=tabbar".
+# Получаем новости со страницы "https://yandex.ru/news?from=tabbar".
 yandex_news()
 # pprint(news)
 
@@ -190,7 +197,6 @@ yandex_news()
 # ================================ #
 
 
-# Написать функцию, которая будет добавлять в вашу базу данных только новые вакансии с сайта.
 def mongo_insert_unique(documents):
     """
     Добавление нового документа в коллекцию c предварительной проверкой на его наличие в ней
@@ -202,8 +208,8 @@ def mongo_insert_unique(documents):
         Документ который необходимо добать в коллекцию.
 
     """
-    for vacancy in documents:
-        collection.update(vacancy, vacancy, upsert=True)
+    for news in documents:
+        collection.update(news, news, upsert=True)
 
 
 def mongo_brows(fields_list):
@@ -221,12 +227,12 @@ def mongo_brows(fields_list):
     else:
         result = collection.find({}, fields)
 
-    for vacancy_1 in result:
-        pprint(vacancy_1)
+    for news in result:
+        pprint(news)
 
 
 # ================================================= #
-# Работаем с MongoDB. Подключение к БД vacancies_db #
+# Работаем с MongoDB. Подключение к БД news_db #
 # ================================================= #
 db_name = 'news_db'
 client = MongoClient('localhost', 27017)
