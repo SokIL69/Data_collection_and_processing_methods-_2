@@ -63,6 +63,7 @@ btn_xpath = '//a[contains(@class, "next-btn c-btn c-btn_scroll-horizontal c-btn_
 delay = 3
 num_click = 5
 
+# Работаем с кнопкой раздела "Хиты продаж"
 # while True:
 for i in range(num_click):
     try:
@@ -82,13 +83,21 @@ item = driver.find_element_by_xpath('//div[contains(@class, "gallery-layout prod
 #   Хиты продаж
 # </div>
 
+# Выводим список найденных разделов
 hits = item.find_elements_by_xpath('//div[contains(@class, "h2 u-mb-0 u-ml-xs-20 u-hidden-phone")]')
 for hit in hits:
     print(hit.text)
 
+# Хиты продаж
+# Новинки
+# В тренде
+# Самые просматриваемые
+
+
 items = driver.find_elements_by_xpath('//div[contains(@class, "gallery-layout products")]'
                                       '//li//a[@class="fl-product-tile-picture fl-product-tile-picture__link"]')
 
+# Выводим список товаров
 product_list = []
 for item in items:
     prod = {}
@@ -101,6 +110,9 @@ for item in items:
     prod[s[8]] = s[9]
 
     product_list.append(prod)
+# {'productCategoryName': 'Мультиварки',
+#  'productName': 'Мультиварка Redmond RMC-IHM303',
+#  'productPriceLocal': 6990.0}
 
 """ [ 'productPriceLocal', '6990.00',
      'productId', '20064307',
@@ -112,7 +124,9 @@ for item in items:
      'Location', 'block5260655',
      'eventPosition', ' 9']"""
 
+# Печатаем список товаров
 pprint(product_list)
 
+# Закрываем окно
 driver.quit()
 
