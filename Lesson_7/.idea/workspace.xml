@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fd971ce-558e-4caf-abd5-1684490884f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qFpZYXlcDdQzOnv4i4V9WFznaW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson_6" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Lesson_7" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Lesson_7" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runner">
+    <configuration name="lmru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lmproject/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lmproject/spiders/lmru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lesson_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lmproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lmproject/pipelines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson_7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lmproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lmproject/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python.pipelines" />
+        <item itemvalue="Python.lmru" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sil\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd971ce-558e-4caf-abd5-1684490884f8" name="Default Changelist" comment="" />
+      <created>1616685248955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616685248955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1048" y="528" key="#com.intellij.tools.ToolEditorDialog" timestamp="1616743896194">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1048" y="528" key="#com.intellij.tools.ToolEditorDialog/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616743896194" />
+    <state x="1060" y="453" key="FileChooserDialogImpl" timestamp="1616686520347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="453" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616686520347" />
+    <state width="2538" height="469" key="GridCell.Tab.0.bottom" timestamp="1616780338635">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="469" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780338635" />
+    <state width="2538" height="469" key="GridCell.Tab.0.center" timestamp="1616780338635">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="469" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780338635" />
+    <state width="2538" height="469" key="GridCell.Tab.0.left" timestamp="1616780338634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="469" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780338634" />
+    <state width="2538" height="469" key="GridCell.Tab.0.right" timestamp="1616780338635">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="469" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780338635" />
+    <state width="2538" height="421" key="GridCell.Tab.1.bottom" timestamp="1616780116569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="421" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780116569" />
+    <state width="2538" height="421" key="GridCell.Tab.1.center" timestamp="1616780116568">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="421" key="GridCell.Tab.1.center/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780116568" />
+    <state width="2538" height="421" key="GridCell.Tab.1.left" timestamp="1616780116568">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="421" key="GridCell.Tab.1.left/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780116568" />
+    <state width="2538" height="421" key="GridCell.Tab.1.right" timestamp="1616780116569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2538" height="421" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616780116569" />
+    <state x="781" y="330" key="SettingsEditor" timestamp="1616744084312">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="330" key="SettingsEditor/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616744084312" />
+    <state width="1288" height="708" key="XDebugger.FullValuePopup" timestamp="1616745267018">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1288" height="708" key="XDebugger.FullValuePopup/0.0.2560.1400/2560.0.1280.984@0.0.2560.1400" timestamp="1616745267018" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="item" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
